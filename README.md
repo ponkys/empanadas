@@ -1,2 +1,2 @@
 # empanadas
-Rankin de empanadas en Bogota
+Ranking de empanadas en Bogota
